@@ -25,3 +25,8 @@ function debounce(fn, delay) {
 - null : there is no data
 - undefined: the variables called is not defined
 - not defined: don´t recall
+
+// Reflection — Day 1
+// 1. Where was I unsure? mostly everything
+// 2. Which concept felt weakest? micro and macrotasks
+// 3. Could I explain this to a junior clearly? no
