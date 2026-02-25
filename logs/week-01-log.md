@@ -7,13 +7,13 @@ Focus: 80%
 Notes: lil distracted and hesitant. everything seems old but new.
 
 ## Tuesday
-Time Started:
-Time Finished:
-Focus:
-Notes:
+Time Started: skipped work
+Time Finished: skipped work
+Focus: skipped work
+Notes: skipped work
 
 ## Wednesday
-Time Started:
+Time Started: 16:53
 Time Finished:
 Focus:
 Notes:
